@@ -2,8 +2,8 @@
 title: "Statstic Inference Week4 Part 2"
 author: "Jie Yang"
 output:
-  html_document: default
   pdf_document: default
+  html_document: default
 ---
 
 #Part 2:
@@ -149,6 +149,12 @@ This is the "two-sided" t-test, as alterntaive is "unequal"
 **Conclusion**
 
 As one can see, both equal and unequal variance case show very high p value, we fail to reject the NULL hypothesis, and we will conclude at dose=2.0, OJ and VC are equal in lens. 
+
+**Assumptions**
+
+1. Generalize the results by taking using members of the same population to represent the whole population of guinea pigs.
+2. Assume that the variences of the two groups are being compared are different for the t-tests .
+3. Assumes that guinea pigs were randomly assinged to Dose Level categories and Supplement Delivery Methods for noise in the outcome.
 
 **Final Conclusions**
 
