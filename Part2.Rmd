@@ -2,8 +2,8 @@
 title: "Statstic Inference Week4 Part 2"
 author: "Jie Yang"
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 ---
 
 #Part 2:
@@ -159,7 +159,8 @@ As one can see, both equal and unequal variance case show very high p value, we 
 * From dose 0.5 to 2.0, the ToothGrowth is increases. 
 
 
-###reference work
+###Reference work
+
 https://rstudio-pubs-static.s3.amazonaws.com/67663_669e39c2153e4f8295f9d130abf07b7e.html
 
 https://github.com/UtkarshPathrabe/Statistical-Inference-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/blob/master/Course%20Project/Part_02_Basic_Inferential_Data_Analysis.md
